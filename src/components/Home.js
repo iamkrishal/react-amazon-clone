@@ -12,7 +12,7 @@ function Home() {
         />
       </div>
 
-      <div className="home__row">
+      <div className="home__row test">
         <Product
           title="Gaming Laptop"
           image="https://images.prismic.io/frameworkmarketplace/46cbf974-cdff-4cd8-b761-8b4a3343f6c4_FW-chromebook-homepage-carousel.png?auto=compress,format"
